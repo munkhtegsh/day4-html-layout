@@ -1,0 +1,47 @@
+body {
+    background: #E0E0E0;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.blue-box {
+    margin-left: 10px;
+    background: blue;
+    height: 100%;
+    width: 100px
+}
+
+section {
+    width: 100%;
+    height: 25%;
+    background: white;
+    padding: 30px;
+    font-size: 1.3em;
+    box-sizing: border-box;
+}
+
+.blue {
+    width: 100%;
+    height: 16vh;
+    background: blue;
+}
+.green {
+    width: 100%;
+    height: 16vh;
+    background: rgb(53, 173, 173);
+}
+.unknown {
+    width: 100%;
+    height: 16vh;
+    background: rgb(153, 185, 35);
+}
+.yellow {
+    width: 100%;
+    height: 16vh;
+    background: yellow;
+}
